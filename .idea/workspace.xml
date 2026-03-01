@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faae22fb-d1bc-4509-a954-b60002150584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/Marks_ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/for loop1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/frizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/leap year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/operators.py" afterDir="false" />
+    <list default="true" id="faae22fb-d1bc-4509-a954-b60002150584" name="Changes" comment="loops,if">
+      <change afterPath="$PROJECT_DIR$/API/API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/decorator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/decorator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_inner_outer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/inner_for_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/userinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/userinput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +55,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Marks_ifelse.executor": "Run",
     "Python.Triangleclassifier.executor": "Run",
+    "Python.decorator1.executor": "Run",
+    "Python.decorator2.executor": "Run",
     "Python.for loop1.executor": "Run",
     "Python.frizzbuzz.executor": "Run",
+    "Python.function_1.executor": "Run",
+    "Python.function_inner_outer.executor": "Run",
+    "Python.function_parameter.executor": "Run",
+    "Python.inner_for_loop.executor": "Run",
     "Python.leap year.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.userinput.executor": "Run",
@@ -64,36 +71,13 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Amma/PycharmProjects/PythonProject1",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.frizzbuzz">
-    <configuration name="Marks_ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/Marks_ifelse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.decorator2">
     <configuration name="Triangleclassifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -118,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for loop1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="decorator1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +117,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/for loop1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/decorator1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="decorator2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +141,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/frizzbuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/decorator2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leap year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_inner_outer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +165,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/leap year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/function_inner_outer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inner_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/inner_for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.frizzbuzz" />
-        <item itemvalue="Python.for loop1" />
-        <item itemvalue="Python.leap year" />
+        <item itemvalue="Python.decorator2" />
+        <item itemvalue="Python.decorator1" />
+        <item itemvalue="Python.inner_for_loop" />
         <item itemvalue="Python.Triangleclassifier" />
-        <item itemvalue="Python.Marks_ifelse" />
+        <item itemvalue="Python.function_inner_outer" />
       </list>
     </recent_temporary>
   </component>
@@ -219,20 +227,41 @@
       <workItem from="1772100970972" duration="721000" />
       <workItem from="1772103432085" duration="3598000" />
       <workItem from="1772172329994" duration="2125000" />
-      <workItem from="1772179470757" duration="1154000" />
+      <workItem from="1772179470757" duration="8634000" />
+      <workItem from="1772349128752" duration="610000" />
+      <workItem from="1772359504808" duration="787000" />
     </task>
+    <task id="LOCAL-00001" summary="loops,if">
+      <option name="closed" value="true" />
+      <created>1772180776262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772180776262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loops,if" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops,if" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$userinput.coverage" NAME="userinput Coverage Results" MODIFIED="1772127922568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$leap_year.coverage" NAME="leap year Coverage Results" MODIFIED="1772129903827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$operators.coverage" NAME="operators Coverage Results" MODIFIED="1772127909177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$Triangleclassifier.coverage" NAME="Triangleclassifier Coverage Results" MODIFIED="1772129607314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$inner_for_loop.coverage" NAME="inner_for_loop Coverage Results" MODIFIED="1772193429758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$for_loop1.coverage" NAME="for loop1 Coverage Results" MODIFIED="1772175858611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$frizzbuzz.coverage" NAME="frizzbuzz Coverage Results" MODIFIED="1772180593479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Triangleclassifier.coverage" NAME="Triangleclassifier Coverage Results" MODIFIED="1772193154062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$frizzbuzz.coverage" NAME="frizzbuzz Coverage Results" MODIFIED="1772180718332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$function_1.coverage" NAME="function_1 Coverage Results" MODIFIED="1772186666665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$Marks_ifelse.coverage" NAME="Marks_ifelse Coverage Results" MODIFIED="1772129225877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$leap_year.coverage" NAME="leap year Coverage Results" MODIFIED="1772129903827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$function_parameter.coverage" NAME="function_parameter Coverage Results" MODIFIED="1772187722982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1772216140966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$function_inner_outer.coverage" NAME="function_inner_outer Coverage Results" MODIFIED="1772189452759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1772216795900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
   </component>
 </project>

@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faae22fb-d1bc-4509-a954-b60002150584" name="Changes" comment="loops,if">
-      <change afterPath="$PROJECT_DIR$/API/API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/decorator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/decorator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_inner_outer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/function_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/inner_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/Dict_frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/Dict_removeduplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/Missig_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/check_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/dict_desecdingorder_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/dictionary_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/list_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/list_removeduplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/removing_first_nonduplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/set_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/string_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +61,7 @@
     "Python.Triangleclassifier.executor": "Run",
     "Python.decorator1.executor": "Run",
     "Python.decorator2.executor": "Run",
+    "Python.dictionary_methods.executor": "Run",
     "Python.for loop1.executor": "Run",
     "Python.frizzbuzz.executor": "Run",
     "Python.function_1.executor": "Run",
@@ -64,7 +69,9 @@
     "Python.function_parameter.executor": "Run",
     "Python.inner_for_loop.executor": "Run",
     "Python.leap year.executor": "Run",
+    "Python.list_methods.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.set_methods.executor": "Run",
     "Python.userinput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -77,31 +84,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.decorator2">
-    <configuration name="Triangleclassifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/Triangleclassifier.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.set_methods">
     <configuration name="decorator1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -150,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_inner_outer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionary_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +148,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/function_inner_outer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/dictionary_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inner_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +172,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/inner_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/list_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/set_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.set_methods" />
+        <item itemvalue="Python.dictionary_methods" />
+        <item itemvalue="Python.list_methods" />
         <item itemvalue="Python.decorator2" />
         <item itemvalue="Python.decorator1" />
-        <item itemvalue="Python.inner_for_loop" />
-        <item itemvalue="Python.Triangleclassifier" />
-        <item itemvalue="Python.function_inner_outer" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +237,7 @@
       <workItem from="1772179470757" duration="8634000" />
       <workItem from="1772349128752" duration="610000" />
       <workItem from="1772359504808" duration="787000" />
+      <workItem from="1772441735811" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="loops,if">
       <option name="closed" value="true" />
@@ -257,11 +265,14 @@
     <SUITE FILE_PATH="coverage/PythonProject1$Triangleclassifier.coverage" NAME="Triangleclassifier Coverage Results" MODIFIED="1772193154062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$frizzbuzz.coverage" NAME="frizzbuzz Coverage Results" MODIFIED="1772180718332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_1.coverage" NAME="function_1 Coverage Results" MODIFIED="1772186666665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$list_methods.coverage" NAME="list_methods Coverage Results" MODIFIED="1772447071090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$Marks_ifelse.coverage" NAME="Marks_ifelse Coverage Results" MODIFIED="1772129225877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$leap_year.coverage" NAME="leap year Coverage Results" MODIFIED="1772129903827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_parameter.coverage" NAME="function_parameter Coverage Results" MODIFIED="1772187722982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1772216140966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$set_methods.coverage" NAME="set_methods Coverage Results" MODIFIED="1772448538427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$dictionary_methods.coverage" NAME="dictionary_methods Coverage Results" MODIFIED="1772448324324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_inner_outer.coverage" NAME="function_inner_outer Coverage Results" MODIFIED="1772189452759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1772216795900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1772446931545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
   </component>
 </project>

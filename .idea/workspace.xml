@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faae22fb-d1bc-4509-a954-b60002150584" name="Changes" comment="set,list,dictonary methods">
-      <change afterPath="$PROJECT_DIR$/OOps_programs/1st_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/merging_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pythonbasicprogram/swapped dictonary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/dictionary_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/dictionary_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/removing_first_nonduplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/removing_first_nonduplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonbasicprogram/string_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonbasicprogram/string_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/Encapsulation1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/encap_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/encap_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/encap__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/encapsulation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOps_programs/int_encap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/API.py" beforeDir="false" afterPath="$PROJECT_DIR$/API/API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOps_programs/1st_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOps_programs/ATM_encp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +52,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.API.executor": "Run",
+    "Python.ATM_encp.executor": "Run",
+    "Python.Encapsulation1.executor": "Run",
     "Python.Marks_ifelse.executor": "Run",
     "Python.Triangleclassifier.executor": "Run",
     "Python.decorator1.executor": "Run",
     "Python.decorator2.executor": "Run",
     "Python.dict_desecdingorder_value.executor": "Run",
     "Python.dictionary_methods.executor": "Run",
+    "Python.encap_1.executor": "Run",
+    "Python.encap_2.executor": "Run",
+    "Python.encap__.executor": "Run",
+    "Python.encapsulation2.executor": "Run",
     "Python.for loop1.executor": "Run",
     "Python.frizzbuzz.executor": "Run",
     "Python.function_1.executor": "Run",
     "Python.function_inner_outer.executor": "Run",
     "Python.function_parameter.executor": "Run",
     "Python.inner_for_loop.executor": "Run",
+    "Python.int_encap.executor": "Run",
     "Python.leap year.executor": "Run",
     "Python.list_methods.executor": "Run",
     "Python.merging_dict.executor": "Run",
@@ -83,8 +92,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.merging_dict">
-    <configuration name="dict_desecdingorder_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.API">
+    <configuration name="API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,13 +102,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/dict_desecdingorder_value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/API.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merging_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ATM_encp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,13 +126,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/merging_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOps_programs/ATM_encp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removing_first_nonduplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="encap_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,13 +150,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/removing_first_nonduplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOps_programs/encap_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="encap_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +174,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/string_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOps_programs/encap_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swapped dictonary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="int_encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,13 +198,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonbasicprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOps_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonbasicprogram/swapped dictonary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOps_programs/int_encap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.merging_dict" />
-        <item itemvalue="Python.dict_desecdingorder_value" />
-        <item itemvalue="Python.swapped dictonary" />
-        <item itemvalue="Python.removing_first_nonduplicate" />
-        <item itemvalue="Python.string_methods" />
+        <item itemvalue="Python.API" />
+        <item itemvalue="Python.ATM_encp" />
+        <item itemvalue="Python.int_encap" />
+        <item itemvalue="Python.encap_2" />
+        <item itemvalue="Python.encap_1" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +245,7 @@
       <workItem from="1772179470757" duration="8634000" />
       <workItem from="1772349128752" duration="610000" />
       <workItem from="1772359504808" duration="787000" />
-      <workItem from="1772441735811" duration="7897000" />
+      <workItem from="1772441735811" duration="14354000" />
     </task>
     <task id="LOCAL-00001" summary="loops,if">
       <option name="closed" value="true" />
@@ -254,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772448744009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="set,list,dictonary methods">
+      <option name="closed" value="true" />
+      <created>1772691027674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772691027674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,24 +285,32 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$userinput.coverage" NAME="userinput Coverage Results" MODIFIED="1772127922568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$operators.coverage" NAME="operators Coverage Results" MODIFIED="1772127909177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$inner_for_loop.coverage" NAME="inner_for_loop Coverage Results" MODIFIED="1772193429758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$for_loop1.coverage" NAME="for loop1 Coverage Results" MODIFIED="1772175858611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$Triangleclassifier.coverage" NAME="Triangleclassifier Coverage Results" MODIFIED="1772193154062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$swapped_dictonary.coverage" NAME="swapped dictonary Coverage Results" MODIFIED="1772450565261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$frizzbuzz.coverage" NAME="frizzbuzz Coverage Results" MODIFIED="1772180718332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$merging_dict.coverage" NAME="merging_dict Coverage Results" MODIFIED="1772452109801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_1.coverage" NAME="function_1 Coverage Results" MODIFIED="1772186666665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1772449678183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$int_encap.coverage" NAME="int_encap Coverage Results" MODIFIED="1772695901033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$leap_year.coverage" NAME="leap year Coverage Results" MODIFIED="1772129903827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1772216140966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$encap_1.coverage" NAME="encap_1 Coverage Results" MODIFIED="1772694437160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$encap__.coverage" NAME="encap__ Coverage Results" MODIFIED="1772693854465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$inner_for_loop.coverage" NAME="inner_for_loop Coverage Results" MODIFIED="1772193429758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$for_loop1.coverage" NAME="for loop1 Coverage Results" MODIFIED="1772175858611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$frizzbuzz.coverage" NAME="frizzbuzz Coverage Results" MODIFIED="1772180718332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$merging_dict.coverage" NAME="merging_dict Coverage Results" MODIFIED="1772452109801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$list_methods.coverage" NAME="list_methods Coverage Results" MODIFIED="1772447071090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$removing_first_nonduplicate.coverage" NAME="removing_first_nonduplicate Coverage Results" MODIFIED="1772449928126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$Marks_ifelse.coverage" NAME="Marks_ifelse Coverage Results" MODIFIED="1772129225877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$leap_year.coverage" NAME="leap year Coverage Results" MODIFIED="1772129903827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_parameter.coverage" NAME="function_parameter Coverage Results" MODIFIED="1772187722982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
-    <SUITE FILE_PATH="coverage/PythonProject1$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1772216140966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$dict_desecdingorder_value.coverage" NAME="dict_desecdingorder_value Coverage Results" MODIFIED="1772451048119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$set_methods.coverage" NAME="set_methods Coverage Results" MODIFIED="1772448538427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$encap_2.coverage" NAME="encap_2 Coverage Results" MODIFIED="1772694839948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Encapsulation1.coverage" NAME="Encapsulation1 Coverage Results" MODIFIED="1772691571845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$encapsulation2.coverage" NAME="encapsulation2 Coverage Results" MODIFIED="1772693479258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
+    <SUITE FILE_PATH="coverage/PythonProject1$API.coverage" NAME="API Coverage Results" MODIFIED="1772700296736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
     <SUITE FILE_PATH="coverage/PythonProject1$dictionary_methods.coverage" NAME="dictionary_methods Coverage Results" MODIFIED="1772448324324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$function_inner_outer.coverage" NAME="function_inner_outer Coverage Results" MODIFIED="1772189452759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
     <SUITE FILE_PATH="coverage/PythonProject1$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1772446931545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonbasicprogram" />
+    <SUITE FILE_PATH="coverage/PythonProject1$ATM_encp.coverage" NAME="ATM_encp Coverage Results" MODIFIED="1772696234885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOps_programs" />
   </component>
 </project>
